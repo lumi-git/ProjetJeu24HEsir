@@ -1,3 +1,7 @@
+
+# Launch 
+lanch the main under an eclipse project will work.
+
 # Proj
 
 Jeu type Isaac\
